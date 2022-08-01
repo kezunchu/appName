@@ -1,0 +1,6 @@
+.zip-files
+node_modules
+.DS_Store
+.vscode
+package-lock.json
+.env_temp
